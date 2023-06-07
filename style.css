@@ -82,7 +82,7 @@ nav ul li {
     display: flex;
     background-color: rgba(15, 33, 56, 0.363);
     color: black;
-    width: 80%;
+    width: 300px;
     margin: 10px 0px;
     justify-content: space-between;
     align-items: center;
